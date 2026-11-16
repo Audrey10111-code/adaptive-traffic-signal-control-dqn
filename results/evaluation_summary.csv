@@ -1,0 +1,4 @@
+policy,episodes,return_mean,return_std,total_wait_vehicle_seconds_mean,total_wait_vehicle_seconds_std,vehicles_served_mean,vehicles_served_std,maximum_queue_observed_mean,maximum_queue_observed_std,phase_switches_mean,phase_switches_std,minimum_approach_service_ratio_mean,minimum_approach_service_ratio_std,invalid_actions_mean,invalid_actions_std,safety_violations_mean,safety_violations_std
+DQN,10,-6170.4,1504.931169,44607.0,10917.201056,773.0,14.375906,32.2,7.554248,34.9,1.72884,0.872384,0.033107,0,0,0,0
+Fixed-time,10,-9119.55,2738.217146,64062.0,17966.097579,759.2,14.702985,52.2,13.38988,39.0,0.0,0.829173,0.036136,0,0,0,0
+Longest-queue-first,10,-20026.95,2495.236322,165809.5,20053.161908,1145.9,24.781041,70.3,12.11106,105.7,2.406011,0.814737,0.028846,0,0,0,0
